@@ -1,0 +1,6 @@
+[submodule "pasquale_DNRest_illumina"]
+	path = pasquale_DNRest_illumina
+	url = /space/cassj/pasquale_DNRest_illumina
+[submodule "ns5_vs_ns5dastro_lumixpn"]
+	path = ns5_vs_ns5dastro_lumixpn
+	url = /space/cassj/ns5_vs_ns5dastro_lumixpn
